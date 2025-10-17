@@ -1,0 +1,1 @@
+The extra data(krakowlublinzhabinka_feats.csv) is from "https://www.kaggle.com/competitions/home-credit-default-risk/writeups/krak-w-lublin-i-zhabinka-overview-of-the-5th-solut?utm_source=chatgpt.com".
